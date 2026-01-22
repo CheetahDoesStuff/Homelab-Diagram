@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.4">
+  <diagram name="Sida-1" id="h2zrn0ESs_QrfpTycp_7">
+    <mxGraphModel dx="731" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Wt3P9ktnl1Y04NqqFWT4-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="The rest of the world" vertex="1">
+          <mxGeometry height="30" width="120" x="354" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wt3P9ktnl1Y04NqqFWT4-10" edge="1" parent="1" source="Wt3P9ktnl1Y04NqqFWT4-3" style="edgeStyle=none;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Wt3P9ktnl1Y04NqqFWT4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wt3P9ktnl1Y04NqqFWT4-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Proxmox Cluster" vertex="1">
+          <mxGeometry height="30" width="120" x="354" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Wt3P9ktnl1Y04NqqFWT4-11" edge="1" parent="1" source="Wt3P9ktnl1Y04NqqFWT4-4" style="edgeStyle=none;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Wt3P9ktnl1Y04NqqFWT4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wt3P9ktnl1Y04NqqFWT4-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="My houses router" vertex="1">
+          <mxGeometry height="30" width="120" x="354" y="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
